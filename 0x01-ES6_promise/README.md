@@ -1,0 +1,1 @@
+This project contains tasks for learning the concept of Promises in Javascript.
