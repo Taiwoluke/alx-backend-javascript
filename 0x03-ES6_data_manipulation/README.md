@@ -1,0 +1,1 @@
+This project contains tasks for the ES6 data manipulation
